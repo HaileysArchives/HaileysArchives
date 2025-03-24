@@ -7,7 +7,7 @@
 
 <div>
   <!--Body-->
-  <h2 align="left"> I'm Yewon Kim, an AI Developer and Data Analyst specializing in computer vision, with a strong foundation in AI and big data. <br/> I excel at tackling complex problems through in-depth data exploration and providing practical, data-driven solutions and innovative ideas. Additionally, my strength lies in object detection and instance segmentation, where I leverage cutting-edge technologies to drive impactful insights and advancements. </h2>
+  I'm Yewon Kim, an AI Developer and Data Analyst specializing in computer vision, with a strong foundation in AI and big data. <br/> I excel at tackling complex problems through in-depth data exploration and providing practical, data-driven solutions and innovative ideas. Additionally, my strength lies in object detection and instance segmentation, where I leverage cutting-edge technologies to drive impactful insights and advancements.
 
 ###
 
