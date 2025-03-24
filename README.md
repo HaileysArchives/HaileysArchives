@@ -1,3 +1,10 @@
+<div>
+
+  <!--Header-->
+  ![header](https://capsule-render.vercel.app/api?type=speech&color=gradient&customColorList=5D8AA8,8A2BE2&height=300&section=header&text=capsule%20render&fontSize=90)
+
+</div>
+
 <h2 align="left">Hi 👋! My name is Yewon Kim and I'm a AI Developer & Data Analyst, from Korea.</h2>
 
 ###
